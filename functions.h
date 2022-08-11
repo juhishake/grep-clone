@@ -1,0 +1,11 @@
+void i(FILE *ptr, char pattern[]);
+void w(FILE *ptr, char pattern[]);
+void v(FILE *ptr, char pattern[]);
+void c(FILE *ptr, char pattern[]);
+void q(FILE *ptr, char pattern[]);
+void n(FILE *ptr, char pattern[]);
+void regexstarting(FILE *ptr, char pattern[]);
+void regexending(FILE *ptr, char pattern[]);
+void B(FILE *ptr, char pattern[],int n);
+void o(FILE *ptr, char pattern[]);
+//void brac(FILE *ptr, char pattern[]);
